@@ -1,6 +1,6 @@
 # Tensorflow Demo
 
-Tested: (Python 3.5.2  TF 1.1)
+Tested in Windows 7: (Python 3.5.2  TF 1.2)
 
 
 Overview
